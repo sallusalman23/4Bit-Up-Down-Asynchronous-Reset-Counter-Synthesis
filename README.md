@@ -69,18 +69,19 @@ used.
 
 
 #### Area report:
-![WhatsApp Image 2024-11-24 at 10 39 22_fcab39c8](https://github.com/user-attachments/assets/5c54dca4-5304-448b-be13-c1a293f18c2d)
+![Screenshot (171)](https://github.com/user-attachments/assets/6005d1bf-8f88-4d66-963b-5649cf0cccb1)
 
 
 
 #### Power Report:
 
-![WhatsApp Image 2024-11-24 at 10 39 22_6a2b4900](https://github.com/user-attachments/assets/3b722511-9706-425a-8eca-3cda28a948ac)
+
 
 
 #### Timing Report: 
 
-![WhatsApp Image 2024-11-24 at 10 39 22_c0916e82](https://github.com/user-attachments/assets/820f9f47-ef66-45d3-b61d-33d92e2e726c)
+![Screenshot (170)](https://github.com/user-attachments/assets/853fcdd6-a41c-41f8-ba1e-8d8985cc1a16)
+
 
 #### Result: 
 
