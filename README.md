@@ -1,4 +1,4 @@
-# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+# Exp-4: 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
@@ -65,11 +65,22 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![Screenshot (160)](https://github.com/user-attachments/assets/207c46e4-fa13-4df1-bb15-2b74cd12de32)
+
+
 #### Area report:
+![WhatsApp Image 2024-11-24 at 10 39 22_fcab39c8](https://github.com/user-attachments/assets/5c54dca4-5304-448b-be13-c1a293f18c2d)
+
+
 
 #### Power Report:
 
+![WhatsApp Image 2024-11-24 at 10 39 22_6a2b4900](https://github.com/user-attachments/assets/3b722511-9706-425a-8eca-3cda28a948ac)
+
+
 #### Timing Report: 
+
+![WhatsApp Image 2024-11-24 at 10 39 22_c0916e82](https://github.com/user-attachments/assets/820f9f47-ef66-45d3-b61d-33d92e2e726c)
 
 #### Result: 
 
